@@ -25,6 +25,10 @@ p {
     font-family: 'Open Sans', sans-serif; font-size:24; 
 }
 
+ul { 
+    font-family: 'Open Sans', sans-serif; font-size:24; 
+}
+
 .dropbtn {
     background-color: #f1e39b;
     color: black;
