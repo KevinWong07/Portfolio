@@ -14,22 +14,22 @@ body {
 }
 
 h1 { 
-    font-family: 'Lora', serif; font-size:24; 
+    font-family: 'Lora', serif; font-size:30; 
 }
 
 h2 { 
-    font-family: 'Lora', serif; font-size:22; 
+    font-family: 'Lora', serif; font-size:28; 
 }
 
 p { 
-    font-family: 'Open Sans', sans-serif; font-size:20; 
+    font-family: 'Open Sans', sans-serif; font-size:24; 
 }
 
 .dropbtn {
     background-color: #f1e39b;
     color: black;
     padding: 16px;
-    font-size: 16px;
+    font-size: 24px;
     border: none;
     cursor: pointer;
 }
@@ -47,7 +47,7 @@ p {
     display: none;
     position: absolute;
     background-color: #f3e8af;
-    min-width: 160px;
+    min-width: 100px;
     overflow: auto;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     left: 0;
